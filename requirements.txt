@@ -1,0 +1,11 @@
+install :
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+catboost
+imbalanced-learn
+tensorflow
+matplotlib
+seaborn
