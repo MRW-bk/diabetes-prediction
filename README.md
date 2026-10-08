@@ -43,16 +43,6 @@ Several machine learning and deep learning models were trained and evaluated for
 | Hard Voting                                 |         99.91% |        98.74% |    98.42% |     98.42% |   98.16% |       — |
 | Weighted Ensemble                           |         99.95% |    **99.28%** |    98.45% | **99.48%** |   98.96% |  99.99% |
 
-### 🥇 Best Results
-
-Based on the test-set results:
-
-* **Best Test Accuracy:** 99.28% — Extra Trees / CatBoost / Weighted Ensemble
-* **Best Precision:** 98.95% — Extra Trees
-* **Best Recall:** 100% — LightGBM
-* **Best F1-Score:** 98.96% — CatBoost
-* **Best ROC-AUC:** 99.99% — Weighted Ensemble
-
 
 ### ⚠️ Evaluation Note
 
